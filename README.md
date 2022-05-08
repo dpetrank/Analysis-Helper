@@ -1,9 +1,9 @@
 # Analysis-Helper
 
-## What is it for?
-* These notebooks were created to enable a research lab to carry out a machine learning process in python without necessarily enlisting a programmer.
+## What is it?
+* These notebooks were created to enable a research lab to carry out a machine learning process in python without enlisting a programmer.
 * The main notebook is designed as a register of the machine learning process used to create the current model, an SVM model with an RBF kernel.
-* It was made in case the researches obtain more data, so that they can check its distribution and use it to retrain the model.
+* It was made in case the researches obtain more data, so that they can check its attributes and use it to retrain the model.
 
 ## Modules
 * The Analysis Helper - the main module, a register of the entire process with visualizations.
